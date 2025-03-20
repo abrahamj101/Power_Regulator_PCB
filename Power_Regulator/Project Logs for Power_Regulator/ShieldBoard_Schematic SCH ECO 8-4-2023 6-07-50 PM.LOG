@@ -1,0 +1,5 @@
+Remove Pin=J2-5 From Net=A4
+Remove Pin=J2-6 From Net=A5
+Remove Pin=J3-1 From Net=A4
+Remove Pin=J3-2 From Net=A5
+Remove Pin=U1-2 From Net=SW_OUT

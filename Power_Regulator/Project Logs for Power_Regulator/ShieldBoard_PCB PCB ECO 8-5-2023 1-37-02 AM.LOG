@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=L1 Old Footprint=WE-LHMI_4020 New Footprint=WE-LHMI_4020
+Added Component: Designator=DS1(CREE-MK-R-2_V)
+Added Component: Designator=DS2(CREE-MK-R-2_V)
+Add Pin To Net: Unknown Pin: Pin DS1-1
+Add Pin To Net: Unknown Pin: Pin DS1-2
+Add Pin To Net: Unknown Pin: Pin DS1-3
+Add Pin To Net: Unknown Pin: Pin DS2-1
+Add Pin To Net: Unknown Pin: Pin DS2-2
+Add Pin To Net: Unknown Pin: Pin DS2-3
+Add Class Member: Failed to add class member : Component DS1 MKRAWT-00-0000-0D0HG235H
+Add Class Member: Failed to add class member : Component DS2 MKRAWT-00-0000-0D0HG235H

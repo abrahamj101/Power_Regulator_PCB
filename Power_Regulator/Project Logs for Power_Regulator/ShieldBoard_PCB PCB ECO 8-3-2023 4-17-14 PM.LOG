@@ -1,0 +1,52 @@
+Change Component Footprint: Designator=L1 Old Footprint=WE-LHMI_4020 New Footprint=WE-LHMI_4020
+Change Component Comment : Designator=D1 Old Comment=Comment New Comment=MKRAWT-00-0000-0D0HG235H
+Change Component Comment : Designator=D2 Old Comment=Comment New Comment=MKRAWT-00-0000-0D0HG235H
+Change Component Designator: OldDesignator=Cin1 NewDesignator=Cin_1
+Change Component Designator: OldDesignator=Cin2 NewDesignator=Cin_2
+Change Managed Component Library Link : Designator=D1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=7F437165-668D-4054-BE0D-35C0EFA4913A Old RevisionGUID= New RevisionGUID=036A9D8C-A94E-47AA-B88B-6D533C256287
+Change Managed Component Library Link : Designator=D2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=7F437165-668D-4054-BE0D-35C0EFA4913A Old RevisionGUID= New RevisionGUID=036A9D8C-A94E-47AA-B88B-6D533C256287
+Added Component: Designator=L1 - Alt(FP-NRS8030-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "4.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "19mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "8.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen Free"; Value = "Halogen Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.118inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "3.3uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "5.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max DC Current"; Value = "4.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Wirewound"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RMS Current (Irms)"; Value = "4.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Saturation Current"; Value = "4.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Self Resonant Frequency"; Value = "50MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "NRS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.315inch"; VariantName = "[No Variations]"
+Added Component: Designator=Rfbb - Alt(RESC0603X26X15LL03T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0201L6F1002SE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=D1-1
+Added Pin To Net: NetName=+5 Pin=D1-2
+Add Pin To Net: Unknown Pin: Pin D1-3
+Added Pin To Net: NetName=+12 Pin=D2-1
+Added Pin To Net: NetName=+5 Pin=D2-2
+Add Pin To Net: Unknown Pin: Pin D2-3
+Added Member To Class: ClassName=ShieldBoard_Schematic Member=Component L1 - Alt NRS8030T3R3MJGJ
+Added Member To Class: ClassName=ShieldBoard_Schematic Member=Component Rfbb - Alt MC0201L6F1002SE

@@ -1,0 +1,10 @@
+Output: MultiWire
+Type  : MultiWire
+From  : Project [Power_Regulator.PrjPcb]
+   Generated File[Power_Regulator.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:47:51 AM On 8/5/2023
